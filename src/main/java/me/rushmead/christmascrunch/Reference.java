@@ -2,7 +2,7 @@ package me.rushmead.christmascrunch;
 
 /**
  * /**
- * File by Rushmead for Christmas Crunch
+ * File by ModForgery for Christmas Crunch on 22/12/2014
  */
 
 public class Reference

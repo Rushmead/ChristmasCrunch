@@ -1,0 +1,16 @@
+[
+{
+  "modid": "christmascrunch",
+  "name": "Christmas Crunch",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rushmead"],
+  "credits": "Rushmead and Others",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

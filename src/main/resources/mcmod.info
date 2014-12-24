@@ -2,13 +2,13 @@
 {
   "modid": "christmascrunch",
   "name": "Christmas Crunch",
-  "description": "Example placeholder mod.",
+  "description": "Bringing Some Christmasy Crunches to the Game!.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["Rushmead"],
-  "credits": "Rushmead and Others",
+  "credits": "Rushmead and Bugzoo For Ideas and Textures.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

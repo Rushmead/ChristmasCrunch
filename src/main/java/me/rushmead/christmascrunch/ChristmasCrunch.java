@@ -20,6 +20,7 @@ public class ChristmasCrunch
     public void init(FMLInitializationEvent event)
     {
         ModItems.init();
+        Recipes.init();
     }
 
 }

@@ -2,9 +2,9 @@ package me.rushmead.christmascrunch.items;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
+import me.rushmead.christmascrunch.CreativeTabChristmasCrunch;
 import me.rushmead.christmascrunch.Reference;
 import net.minecraft.client.renderer.texture.IIconRegister;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemFood;
 import net.minecraft.item.ItemStack;
 
@@ -17,7 +17,7 @@ public class ItemChristmasCrunch extends ItemFood
 {
     public ItemChristmasCrunch(int amountOfHunger) {
         super(amountOfHunger, false);
-        this.setCreativeTab(CreativeTabs.tabFood);
+        this.setCreativeTab(CreativeTabChristmasCrunch.CC_TAB);
     }
 
     @Override

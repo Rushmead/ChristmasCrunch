@@ -1,1 +1,6 @@
 item.christmascrunch:mincePie.name=Mince Pie
+item.christmascrunch:candyCane.name=Candy Cane
+item.christmascrunch:christmasPud.name=Christmas Pudding
+item.christmascrunch:gingerbreadMan.name=Gingerbread Man
+
+itemGroup.christmascrunch=Christmas Crunch
